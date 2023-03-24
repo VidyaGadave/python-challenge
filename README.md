@@ -1,2 +1,3 @@
 # python-challenge
-Python Challenge Repo
+
+This repository contains files and folders for python challenge
